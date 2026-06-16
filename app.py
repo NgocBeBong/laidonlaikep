@@ -43,5 +43,5 @@ if st.button("Tính toán"):
     st.write(
         f"📌 Số tiền khách hàng nhận được theo lãi kép: *{Bn:,.2f} triệu đồng*"
     )
-Soạn
-Viết cho Kim Ngọc
+
+
